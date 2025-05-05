@@ -4,7 +4,7 @@ A fully responsive personal portfolio website showcasing various professional wo
 
 ---
 
-## 📁 Project Contents
+## Project Contents
 
 | File/Folder          | Description                                      |
 |----------------------|--------------------------------------------------|
